@@ -18,9 +18,9 @@ As global warming continues to worsen, severe weather events continue to rise in
 This study analyzes a period of **fifteen** years worth of tornado data from 2007 to 2022 to accurately determine the magnitude/intensity of tornadoes **(Fujita Scale Rating)** after their occurence and determine which features significantly affect the severity of the tornadoes. This project employs a **Random Forest Classification** model that scored 84% accuracy and a **Gaussian Naive Bayes Classifier** that scored 96% accuracy. Features that most significantly affect the severity of a tornado include size, duration, total damage, and amount of indirect/direct deaths and injuries.
 
 ## Languages And Data Mining Techniques
-[X] Python
-[X] Random Forest Classifier
-[X] Gaussian Naive Bayes Classifier
+- [x] Python
+- [x] Random Forest Classifier
+- [x] Gaussian Naive Bayes Classifier
 
 ## Materials And Methods
 - Missing Values: Complete Case Analysis
@@ -28,3 +28,6 @@ This study analyzes a period of **fifteen** years worth of tornado data from 200
 - Feature Selection: Chi Square Test
 - Transformation: Encoding, numerical conversions, etc.
 - Evaluation Metrics: Confusion Matrix, Precision, Recall, F1 Score
+
+## Link To Research Paper
+https://drive.google.com/file/d/1FSc91yEhmZEQvUeYJW_dIzyZOfPxdmY0/view?usp=sharing
